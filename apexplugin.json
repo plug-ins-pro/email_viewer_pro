@@ -47,8 +47,8 @@
             "plugin": {
                 "internalName": "UNITEDCODES_EMAIL_VIEWER",
                 "type": "region",
-                "demo": "https://www.united-codes.com/ords/r/pip/r/email_viewer_pro",
-                "previewImage": "https://www.united-codes.com/ords/r/pip/r/email_viewer_pro/files/static/v114/demo.gif"
+                "demo": "https://www.united-codes.com/ords/r/pip/email_viewer_pro",
+                "previewImage": "https://ww.united-codes.com/ords/r/pip/158/files/static/v120/demo.gif"
             }
         }
     }
