@@ -1,0 +1,55 @@
+{
+    "name": "Email Viewer Pro",
+    "version": "25.1.3",
+    "description": "United Codes Email Viewer: This plugin allows you to view eml and msg files along with their attachments right from your oracle DB.",
+    "keywords": [
+        "Email Viewer",
+        "EML",
+        "MSG",
+        "blob"
+    ],
+    "homepage": "https://www.united-codes.com/products/plug-ins-pro/",
+    "bugs": {
+        "url": "https://github.com/plug-ins-pro/email_viewer/issues",
+        "email": "support@plug-ins-pro.com"
+    },
+    "license": "Commercial",
+    "commercial": "Yes",
+    "author": {
+        "name": "United Codes",
+        "email": "info@plug-ins-pro.com",
+        "url": "https://www.united-codes.com/"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/plug-ins-pro/email_viewer"
+    },
+    "oracle": {
+        "versions": [
+            "19.x",
+            "21.x",
+            "23.x"
+        ],
+        "apex": {
+            "versions": [
+                "19.2.0",
+                "20.1.0",
+                "20.2.0",
+                "21.1.0",
+                "21.2.0",
+                "22.1.0",
+                "22.2.0",
+                "23.1.0",
+                "23.2.0",
+                "24.1.0",
+                "24.2.0"
+            ],
+            "plugin": {
+                "internalName": "UNITEDCODES_EMAIL_VIEWER",
+                "type": "region",
+                "demo": "https://www.united-codes.com/ords/pluginspro_web/r/email_viewer",
+                "previewImage": "https://www.united-codes.com/ords/pluginspro_web/r/email_viewer/files/static/v114/demo.gif"
+            }
+        }
+    }
+}
