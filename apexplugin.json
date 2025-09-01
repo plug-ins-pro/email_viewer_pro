@@ -1,7 +1,7 @@
 {
     "name": "Email Viewer Pro",
     "version": "25.1.3",
-    "description": "United Codes Email Viewer: This plugin allows you to view eml and msg files along with their attachments right from your oracle DB.",
+    "description": "Streamline the way you interact with email files in Oracle APEX. With Email Viewer Pro, you can effortlessly view EML and MSG files directly within your APEX application, get quick access to core email information (including sender, recipient, subject, and date), and seamlessly handle attachments, allowing for easy viewing and downloading. Email Viewer Pro simplifies your workflow and enhances the user experience by bringing essential email functionality right into your APEX environment.",
     "keywords": [
         "Email Viewer",
         "EML",
@@ -10,7 +10,7 @@
     ],
     "homepage": "https://www.united-codes.com/products/plug-ins-pro/",
     "bugs": {
-        "url": "https://github.com/plug-ins-pro/email_viewer/issues",
+        "url": "https://github.com/plug-ins-pro/email_viewer_pro/issues",
         "email": "support@plug-ins-pro.com"
     },
     "license": "Commercial",
@@ -22,7 +22,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/plug-ins-pro/email_viewer"
+        "url": "https://github.com/plug-ins-pro/email_viewer_pro"
     },
     "oracle": {
         "versions": [
@@ -47,8 +47,8 @@
             "plugin": {
                 "internalName": "UNITEDCODES_EMAIL_VIEWER",
                 "type": "region",
-                "demo": "https://www.united-codes.com/ords/pluginspro_web/r/email_viewer",
-                "previewImage": "https://www.united-codes.com/ords/pluginspro_web/r/email_viewer/files/static/v114/demo.gif"
+                "demo": "https://www.united-codes.com/ords/r/pip/r/email_viewer_pro",
+                "previewImage": "https://www.united-codes.com/ords/r/pip/r/email_viewer_pro/files/static/v114/demo.gif"
             }
         }
     }
