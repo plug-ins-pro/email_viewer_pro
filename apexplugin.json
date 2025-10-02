@@ -1,6 +1,6 @@
 {
     "name": "Email Viewer Pro",
-    "version": "25.1.3",
+    "version": "25.1.4",
     "description": "Streamline the way you interact with email files in Oracle APEX. With Email Viewer Pro, you can effortlessly view EML and MSG files directly within your APEX application, get quick access to core email information (including sender, recipient, subject, and date), and seamlessly handle attachments, allowing for easy viewing and downloading. Email Viewer Pro simplifies your workflow and enhances the user experience by bringing essential email functionality right into your APEX environment.",
     "keywords": [
         "Email Viewer",
